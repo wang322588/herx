@@ -32,7 +32,7 @@
             "value": "https://raw.githubusercontent.com/wang322588/herx/main/etc/StoreFiles"
         }
     },
-    "website": "https://github.com/Lbingyi/HerokuXray",
-    "repository": "https://github.com/Lbingyi/HerokuXray",
+    "website": "https://github.com/wang322588/herx",
+    "repository": "https://github.com/wang322588/herx",
     "stack": "container"
 }
